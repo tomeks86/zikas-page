@@ -315,6 +315,7 @@ td.pres {
 td.proj {
   border: none;
   text-align: left;
+  padding: 10px;
 }
 
 td {
