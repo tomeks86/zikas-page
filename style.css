@@ -342,7 +342,7 @@ li {
   position: relative;
   background-color:#ffffff;
   border: dotted navy 1px;
-  width: 450px;
+  width: inherit;
 }
 
 p.contact {
